@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align = "center">
 
 <br/>
-<h3>Hwang Yoon Jae</h3>
+<h1>Hwang Yoon Jae</h1>
 <br/>
 
 ﹏﹏﹏﹏﹏﹏﹏
