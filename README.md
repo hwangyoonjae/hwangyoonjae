@@ -30,6 +30,10 @@
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
 </div>
 
+<div>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
+</div>
+
 <br/><br/>
  
 <h3>🛠 Tools 🛠</h3>
