@@ -21,9 +21,6 @@
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 </div>
 
-<div class="Back-end">
-</div>
-
 <div class="DB">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 </div>
