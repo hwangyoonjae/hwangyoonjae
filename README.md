@@ -5,10 +5,6 @@
 <br/>
 <h1>Hwang Yoon Jae</h1>
 <br/>
-
-﹏﹏﹏﹏﹏﹏﹏
-
-<br/>
  
 <h3>🛠 Tech Stack 🛠</h3>
  
