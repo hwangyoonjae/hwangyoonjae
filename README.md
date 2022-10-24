@@ -16,6 +16,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </div>
+<div>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
+</div class="Language">
 
 <br/>
 
@@ -34,11 +37,6 @@
 </div>
 
 <br/>
-
-<div class="Markup">
-<h4>💻 Markup 💻</h4>
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
-</div>
 
 <br/><br/>
  
