@@ -25,6 +25,7 @@
 <div class="DB">
 <h4>💻 Database 💻</h4>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 </div>
 
 <br/>
