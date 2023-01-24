@@ -59,6 +59,10 @@
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </div>
+ 
+<div class="Tools">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white"/>
+</div>
 
 </div>
 
